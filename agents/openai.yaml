@@ -1,0 +1,4 @@
+interface:
+  display_name: "个人技能雷达"
+  short_description: "收集公开热点与用户反馈，保留来源证据，筛选值得验证的个人技能需求"
+  default_prompt: "使用 $personal-skill-radar 收集本周热点与真实需求，整理候选并推荐一个可验证的个人技能。"

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "standard_version": "1.0.0",
+  "skill": "personal-skill-radar",
+  "source_version": "ca8e0c1ae4775bffd12b8256476288d225b0d819638ee9a0be8135ef072190a8",
+  "origin": "original",
+  "stage": "candidate",
+  "upstream": "",
+  "files": {
+    "README.md": "1bd67018b7f300c6692a392c8697fa4611de0888063db28891b2bda1c7fa1890",
+    "SKILL.md": "9c3f0fc26811911e9b5ef0ec8e7b65235dd2f38f79aced967e7b5facb2eed877",
+    "agents/openai.yaml": "16aec5e023c0ed0cd69a7102a508eb2b0946b213ccff3198acc10cf6e56b06f6",
+    "references/data-contract.md": "c48f63b2a921c2f9a2d291583287211dc9854992ebe577f7e010884ef37885ff",
+    "references/prompts.md": "4d640f605cf7ce4c3378f687a214356f9b4db9e16e18ac09eb26dac500b5211f",
+    "scripts/radar.py": "e106aed433501e08ebc79ea5f249836f5a32ca1ba2c713e6727e7146401a8773"
+  }
+}
